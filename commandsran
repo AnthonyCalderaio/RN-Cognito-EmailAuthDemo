@@ -1,0 +1,12 @@
+1) 'npm install --save aws-amplify'
+2) 'npm install --save aws-amplify-react-native'
+
+before fix:
+1) 'npm install --save react-navigation'
+2) 'npm install --save react-native-gesture-handler'
+3) 'react-native link'
+
+worked
+
+error: unrecognized font family 'material icons'
+1) 'react-native link react-native-vector-icons' 
